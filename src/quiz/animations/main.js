@@ -21,7 +21,7 @@ const aliceTumbling = [
   
   play()
 
-  
+
   // Promise chain  
   // alice1.animate(aliceTumbling, aliceTiming).finished  
   //   .then(() => {
